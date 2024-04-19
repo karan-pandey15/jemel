@@ -16,7 +16,7 @@ const About = () => {
 
     return (
         <>
-            <div style={{ backgroundColor: '#FEE7D6' }} >
+            {/* <div style={{ backgroundColor: '#FEE7D6' }} >
 
                 <div style={{ backgroundColor: '#fff' }} >
                     <Navbar />
@@ -95,12 +95,13 @@ const About = () => {
 
 
                 <div className="our_team_content_container" >
-                    <Image className="our_teamcontainner_img" src={fourthImg} />
+                    <Image className="our_teamcontainner_img" src={fourthImg}  />
                     <h2 className="our_teamheading">Bernita</h2>
                     <p style={{ marginBottom: 20 }}>Co-founder</p>
                 </div>
-            </div>
+            </div> */}
                 <Footer />
+
         </>
 
     );

@@ -22,6 +22,7 @@ const FirstBanner = () => {
             <Image
               src={bestSeller1}
               className="round_contaner_img"
+              alt="img"
             />  
             <p className="txt_container" >RING</p>
 
@@ -31,6 +32,8 @@ const FirstBanner = () => {
             <Image
               src={bestSeller2}
               className="round_contaner_img"
+              alt="img"
+
 
             />
              <p className="txt_container" >EARRINGS</p>
@@ -41,6 +44,8 @@ const FirstBanner = () => {
             <Image
               src={bestSeller3}
               className="round_contaner_img"
+              alt="img"
+              
 
             />
             <p className="txt_container" >NECLES</p>
@@ -51,6 +56,8 @@ const FirstBanner = () => {
             <Image
               src={bestSeller1}
               className="round_contaner_img"
+              alt="img"
+              
 
             />
             <p className="txt_container" >VOGUISH</p>

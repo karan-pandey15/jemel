@@ -32,6 +32,8 @@ export default function Carousel() {
               src={Slider1}
               // style={{width:'100%',height:'500px'}}
               className="slider_img"
+              alt="img"
+              
             />
         
           </div>
@@ -41,7 +43,10 @@ export default function Carousel() {
             <Image
               src={Slider2}
               // className="w-full h-screen object-cover object-center"
+
               className="slider_img"
+              alt="img"
+              
             />
             
           </div>
@@ -52,6 +57,8 @@ export default function Carousel() {
               src={Slider3}
               // className="w-full h-screen object-cover object-center"
               className="slider_img"
+              alt="img"
+              
               
             />
           </div>

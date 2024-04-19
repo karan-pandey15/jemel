@@ -22,7 +22,7 @@ const Testimonial = () => {
             tempor sem leo, a ultricies isdfdfd with us.
           </p>
 
-          <Image src={firstImg} className="testimonial_img" />
+          <Image src={firstImg} className="testimonial_img" alt="img" />
         </div>
       </div>
     </>

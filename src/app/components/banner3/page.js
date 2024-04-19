@@ -15,7 +15,7 @@ const ThirdBanner = () => {
       <section className="background_image_section">
         <div className="background_image_div">
           <div>
-            <Image src={Overla} />
+            <Image src={Overla} alt="img"   />
           </div>
           <div>
             <p className="tracking-[.17em] text-sm font-medium">
